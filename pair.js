@@ -88,7 +88,7 @@ Thanks for using *MALVIN-XD* — your session has been successfully created!
 
 *✅ Stay Updated:*  
 Join our official WhatsApp Channel:  
-https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A
+https://whatsapp.com/channel/0029Vb4hYYs77qVTnYMiAI11
 
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
